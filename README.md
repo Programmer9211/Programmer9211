@@ -9,4 +9,4 @@ Hi there 👋
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nope
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Programmer9211&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151">
+<img src = "https://github-readme-stats.vercel.app/api?username=Programmer9211&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
