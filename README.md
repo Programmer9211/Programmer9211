@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **[Youtube](https://www.youtube.com/channel/UCjeEoG59tKUNRxo7nH0NVqQ)**
 
-- 📫 How to reach me **adityachaudhary1029@gmail.com**
+- 📫 How to reach me **adityachaudhary1029@gmail.com** [Instagram]("https://www.instagram.com/flutter_dev_") []("https://t.me/aditya_chaudhary")
 
 ## 🚀 Languages and Tools:
 
