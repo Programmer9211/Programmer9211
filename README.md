@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working as **Frelancer**
 
-- 🌱 I’m currently learning **New Things.**
-
 - 👯 I’m looking to collaborate on **[Youtube](https://www.youtube.com/channel/UCjeEoG59tKUNRxo7nH0NVqQ)**
 
 - 📫 How to reach me **adityachaudhary1029@gmail.com**
