@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Frelancer**
 
-- 👯 I’m looking to collaborate on **[Youtube](https://www.youtube.com/channel/UCjeEoG59tKUNRxo7nH0NVqQ)**
+- 👯 I’m looking to collaborate on **[Youtube](https://www.youtube.com/c/AdityaChaudharyFlutter)**
 
 - 📫 How to reach me : **[Instagram](https://www.instagram.com/flutter_dev_)** **[Telegram](https://t.me/aditya_chaudhary)** **adityachaudhary1029@gmail.com**
 
